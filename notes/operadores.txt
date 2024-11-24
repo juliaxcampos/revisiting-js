@@ -1,0 +1,8 @@
+OPERADORES
+
+Operadores aritiméticos: +  -  *  /  ++ (incremento)  -- (decremento)
+Operadores de atribuição: =   += (mesma variável com outra) -=  *=  /=
+Operadores de Sequência: + (com palavras, é concatenação)
+Operadores de comparação: ==  !=  <  >  >=  <=  ===  !== (valor e tipo são iguais)  
+Operadores de condicionais (Ternário): ?  :  (algo == algo ? true:false)
+Operadores lógico: &&  ||  !(negação de condição)

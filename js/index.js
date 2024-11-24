@@ -1,4 +1,9 @@
-/* modos de exibição de js no html */
-document.getElementById("texto").innerHTML="Lorem Ipsum <b>texto por js </b>";
+var nome, sobrenome, nomeCompleto;
+nome = "Júlia";
+sobrenome = "Campos";
+nomeCompleto = nome + " " + sobrenome;
+
+
+document.getElementById("welcomeText").innerHTML="Welcome back " + nomeCompleto;
 alert("modal de alerta");
 console.log("era pra aparecer esse console.log");
