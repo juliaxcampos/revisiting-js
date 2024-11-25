@@ -1,0 +1,16 @@
+OBJETO
+
+Como uma variável, mas com muitos itens dentro, exemplo: 
+const carro = {
+    item1: 1, 
+    item2: 2, 
+    item3: 3, 
+ //metodos//
+    item4: function() {
+        conteudo da função
+        } 
+    completo: function(){
+        return "O item 1 é " + this.item1}
+    } - objeto literal
+Para consegui uma propriedade especifica utilizar objeto.item ou objeto["item"]
+

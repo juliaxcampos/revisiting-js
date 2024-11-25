@@ -1,0 +1,9 @@
+FUNÇÕES
+
+Extrutura:
+function functionName (valors){ 
+    return resultado;
+}
+
+Invocando a função
+document.getElementById(id).innerHTML = functionName(valorPassado);
